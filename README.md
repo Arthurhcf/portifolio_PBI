@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/Arthurhcf/sample_pages/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Link do vídeo
+
+<a href="https://youtu.be/qJEDSSIYoM4" target"_blank">
+  <img src="https://img.youtube.com/vi/qJEDSSIYoM4/maxresdefault.jpg" alt="Vídeo do jogo">
+</a>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
