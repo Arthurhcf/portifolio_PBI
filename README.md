@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Meu portifólio
+
+Olá pessoal. A partir deste site venho apresentar alguns dos trabalhos que tenho realizado (com dados fictícios).
+
+## Linkedin
+
+Para mais informações e contato, é só me procurar no [Linkedin](https://www.linkedin.com/in/arthur-henrique-23065a98/) :
 
 You can use the [editor on GitHub](https://github.com/Arthurhcf/sample_pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
