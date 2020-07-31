@@ -2,7 +2,7 @@
 
 Olá pessoal. Meu nome é Arthur e, a partir deste site, venho apresentar alguns dos trabalhos que tenho realizado (com dados fictícios).
 
-## Linkedin
+## Contato
 
 Para mais informações e contato, é só me procurar no [Linkedin](https://www.linkedin.com/in/arthur-henrique-23065a98/)
 
