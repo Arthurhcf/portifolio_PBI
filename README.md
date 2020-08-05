@@ -12,5 +12,6 @@ Para mais informações e contato, é só me procurar no [Linkedin](https://www.
 
 ### Dashboard de Acompanhamento de Projetos:
 
+<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjQ2M2M4MTctYTYxNC00ZWE1LTlkMWUtMzQ1NzM2NmQ4ODdmIiwidCI6ImFiYjllYTM4LWI3M2QtNDIxNC05MTgwLWIzYTRmOWZkY2YwOCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ### Dashboard de Acompanhamento de Iniciativas:
