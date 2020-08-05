@@ -8,7 +8,7 @@ Para mais informações e contato, é só me procurar no [Linkedin](https://www.
 
 ### Dashboard de Acompanhamento de Automações:
 
-<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZGNhMWUxMzAtYjZmYi00Mjk2LTkzN2QtZjhjZTc4NmU4Njk4IiwidCI6IjljMWJlOTExLTU4NDEtNGZjYy04ODk5LTQzOGVjNDFhMDVlYiJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTg4MmU4ZjktMDNjNi00MzI5LTk2MWQtZTM1Y2JjMTA3NGNjIiwidCI6ImFiYjllYTM4LWI3M2QtNDIxNC05MTgwLWIzYTRmOWZkY2YwOCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ### Dashboard de Acompanhamento de Projetos:
 
